@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDIN1", "TDIN1\TDIN1.csproj", "{8D464F48-69F2-4114-99CD-BC2C84149969}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sala", "TDIN1\Sala.csproj", "{8D464F48-69F2-4114-99CD-BC2C84149969}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
